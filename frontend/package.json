@@ -1,5 +1,6 @@
 {
   "name": "frontend",
+  "homepage": "https://raymanlee89.github.io/Simple_Blog",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -9,6 +10,7 @@
     "antd": "^4.16.6",
     "antd-button-color": "^1.0.4",
     "axios": "^0.21.1",
+    "gh-pages": "^3.2.3",
     "mockjs": "^1.1.0",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
@@ -16,6 +18,8 @@
     "web-vitals": "^1.0.1"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
