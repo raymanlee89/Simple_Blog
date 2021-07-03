@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Simple_Blog/static/css/main.3001fc23.chunk.css",
+    "main.js": "/Simple_Blog/static/js/main.518bfcdc.chunk.js",
+    "main.js.map": "/Simple_Blog/static/js/main.518bfcdc.chunk.js.map",
+    "runtime-main.js": "/Simple_Blog/static/js/runtime-main.60b76e75.js",
+    "runtime-main.js.map": "/Simple_Blog/static/js/runtime-main.60b76e75.js.map",
+    "static/css/2.7f1e953c.chunk.css": "/Simple_Blog/static/css/2.7f1e953c.chunk.css",
+    "static/js/2.9df813c4.chunk.js": "/Simple_Blog/static/js/2.9df813c4.chunk.js",
+    "static/js/2.9df813c4.chunk.js.map": "/Simple_Blog/static/js/2.9df813c4.chunk.js.map",
+    "static/js/3.f2c36812.chunk.js": "/Simple_Blog/static/js/3.f2c36812.chunk.js",
+    "static/js/3.f2c36812.chunk.js.map": "/Simple_Blog/static/js/3.f2c36812.chunk.js.map",
+    "index.html": "/Simple_Blog/index.html",
+    "static/css/2.7f1e953c.chunk.css.map": "/Simple_Blog/static/css/2.7f1e953c.chunk.css.map",
+    "static/css/main.3001fc23.chunk.css.map": "/Simple_Blog/static/css/main.3001fc23.chunk.css.map",
+    "static/js/2.9df813c4.chunk.js.LICENSE.txt": "/Simple_Blog/static/js/2.9df813c4.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Simple_Blog/static/media/thought-catalog-wyEinDRV88I-unsplash.dc35a259.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.60b76e75.js",
+    "static/css/2.7f1e953c.chunk.css",
+    "static/js/2.9df813c4.chunk.js",
+    "static/css/main.3001fc23.chunk.css",
+    "static/js/main.518bfcdc.chunk.js"
+  ]
+}
