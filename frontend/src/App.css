@@ -1,0 +1,104 @@
+.vertical {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.horizontal {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.content {
+  max-width: 1000px;
+  width: 100%;
+  padding: 30px 10px 30px 10px;
+}
+
+pre {
+  white-space: pre-wrap;
+  word-wrap: break-word;
+}
+
+/*Header*/
+.Header {
+  width: 100%;
+  background-image: url('./pictures/thought-catalog-wyEinDRV88I-unsplash.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  box-shadow:inset 0 0 0 2000px rgba(56, 56, 56, 0.349);
+}
+
+.Header button {
+  color: azure;
+}
+
+.Header h1 {
+  font-size: 70px;
+  color: azure;
+}
+
+.header-panel {
+  width: 80%;
+}
+
+.header-post-title {
+  max-width: 1000px;
+  width: 100%;
+  padding: 30px 10px 30px 10px;
+}
+
+.header-post-title h1 {
+  margin-bottom: 10px;
+  max-width: 1000px;
+}
+
+.header-post-title h3 {
+  color: azure;
+  font-weight: lighter;
+  font-size: 20px;
+}
+
+/*Home*/
+.post-list {
+  margin-top: 10px;
+}
+
+.post-box button {
+  border: none;
+  background-color: rgba(255, 255, 255, 0);
+  text-align: left;
+  padding: 0px 0px 0px 0px;
+  font-weight: bolder;
+  font-size: 35px;
+  margin-bottom: 10px;
+  transition: 0.5s;
+}
+
+.post-box button:hover {
+  transform: scale(1.01);
+  transition: 0.5s;
+}
+
+.post-box h2 {
+  font-weight: lighter;
+  font-size: 30px;
+}
+
+.post-box h3 {
+  color: rgb(138, 138, 138);
+}
+
+/*Post*/
+.post-panel {
+  width: 100%;
+  justify-content: flex-start;
+}
+
+.post-panel button {
+  margin: 0px 5px 10px 0px;
+}
